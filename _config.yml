@@ -1,9 +1,5 @@
 # --- General options --- #
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://ihavevoice.app"
 baseurl: ""
 
@@ -11,7 +7,7 @@ baseurl: ""
 title: I Have Voice
 
 # Short description of your site
-description: The app which allows to communicate people with motor neuron disease with the world.
+description: The app which allows people with motor neuron disease to communicate with the world.
 
 # --- Navigation bar options --- #
 
