@@ -39,7 +39,7 @@ link-col: "#ff5252"
 hover-col: "#ff867f"
 footer-col: "#455a64"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#ff5252"
+footer-link-col: "#FFFFFF"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
