@@ -32,10 +32,10 @@ navbar-text-col: "#FFFFFF"
 navbar-children-col: "#455a64"
 page-col: "#FFFFFF"
 link-col: "#ff5252"
-hover-col: "#ff867f"
+hover-col: "#ff5252"
 footer-col: "#455a64"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#FFFFFF"
+footer-link-col: "#ff867f"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
