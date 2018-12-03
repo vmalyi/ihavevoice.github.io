@@ -265,6 +265,19 @@ img {
   }
 }
 
+.spacer-top-bottom {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.spacer-top {
+  padding-top: 50px;
+}
+
+.spacer-bottom {
+  padding-bottom: 50px;
+}
+
 /* --- Footer --- */
 
 footer {
