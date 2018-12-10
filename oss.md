@@ -265,3 +265,13 @@ the United States or other applicable countries. You also agree not to transfer,
 or authorize the transfer of, directly or indirectly, of the Software to any
 Prohibited Jurisdiction, or otherwise in violation of any such restrictions or
 regulations.
+
+## Icons
+- designed by Gregor Cresnar from Flaticon
+- designed by Freepik from Flaticon
+- designed by Smashicons from Flaticon
+- designed by Twitter from Flaticon
+- designed by Good Ware from Flaticon
+- designed by Vitaly Gorbachev from Flaticon
+- designed by prettycons from Flaticon
+- designed by Kiranshastry from Flaticon
