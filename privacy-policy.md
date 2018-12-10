@@ -9,10 +9,10 @@ This privacy policy governs your use of the software Application I Have Voice (â
 The Application doesn't allow to enter any personal user information and thus doesn't collect personal user information.
 
 ## Automatically Collected Information
-The Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, relevant system information in case of Application crash and information available through TrueDepth Camera API.
+The Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, relevant system information in case of Application crash and information available through TrueDepth Camera API. Additionally, the Application collects statistics on actions usage as well as the way user selects action.
 
 ## Usage of Automatically Collected Information
-Automatically collected information described in the section above will be used for analyzing usage patterns of the Application (the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, relevant system information in case of Application crash).
+Automatically collected information described in the section above will be used for analyzing usage patterns of the Application (the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, relevant system information in case of Application crash, actions usage statistics, action selection mode).
 
 The information collected through TrueDepth Camera API will be solely used for tracking user's eyes position to enable the ability for the user to control the app with their eyes. Additionally, such information may be used to estimate whether the user's gaze directed to the iPhone's screen or not to ensure the optimal user experience. The processing of information collected through TrueDepth Camera API will be performed exclusively on the device. This information will never leave the device or transferred to the other party.
 
