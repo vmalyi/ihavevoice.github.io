@@ -53,5 +53,8 @@ The user is able to request the copy of data related to the User stored by the D
 ## Requesting the Deletion of Your Data
 The user is able to request the deletion of data related to the User stored by the Developer. To request the deletion of the User's data, the user must submit an informal request to info@ihavevoice.app.
 
+## Data Breach Policy
+The Application will comply to the [Data Breach Policy](../data-breach-policy) to ensure adequate measures in case of a data breach event.
+
 ## Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at info@ihavevoice.app.
