@@ -35,7 +35,7 @@ The information collected through TrueDepth Camera API will not be retained or s
 ## Security
 If leaves the user device, the User Provided and Automatically Collected Information will be encypted prior to be transported to any external service.
 
-External services user to process the User Provided and Automatically Collected Information are certified for secure storage of both sensitive and non-sensitive user information.
+To process the User Provided and Automatically Collected Information, Firebase Analytics is used. Follow the link to know more about their privacy policy and security certification details: https://firebase.google.com/support/privacy
 
 ## Changes
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
